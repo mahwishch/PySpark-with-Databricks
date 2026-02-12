@@ -1,8 +1,3 @@
-# Learning-PySpark-with-Databricks (YouTube Series)
-
-Welcome to the **Learning PySpark with Databricks** repository! This repository contains all the source code, notebooks, and data files used throughout the video series on [YouTube](https://www.youtube.com/playlist?list=PL6pAXQQpiH-mJUIt1rWXjwV2AsF_0OdCU).
-
-Each notebook is aligned with the corresponding video name, making it easy to follow along and practice the concepts demonstrated in the series.
 
 ---
 
@@ -25,9 +20,4 @@ The repository contains all Jupyter/Databricks notebooks at the root level. Each
    - Select **URL**, paste the copied URL, and click **Import**.
    - Once imported, you can run the notebook in Databricks.
 
-### Option 2: Clone the Repository Locally
 
-If you prefer working with the files locally:  
-   ```bash
-   git clone https://github.com/pathfinder-analytics-uk/Learning-PySpark-with-Databricks.git
-   cd learning-pyspark-databricks
